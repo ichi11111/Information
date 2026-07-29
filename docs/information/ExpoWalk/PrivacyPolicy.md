@@ -28,6 +28,7 @@ ExpoWalk ("the App") does not collect any personal information.
 Any changes to this policy will be announced on this page.
 
 Contact: https://github.com/ichi11111/Information/issues
+
 ---
 
 会場3Dモデル: 「国土交通省 Project PLATEAU 3D都市モデル（2025年大阪・関西万博）」を加工して使用
