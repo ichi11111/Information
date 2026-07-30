@@ -10,10 +10,6 @@ Please report bugs or send feature requests via GitHub Issues:
 
 - https://github.com/ichi11111/Information/issues
 
-## プライバシーポリシー / Privacy Policy
-
-- [プライバシーポリシー / Privacy Policy](./PrivacyPolicy.html)
-
 ---
 
 会場3Dモデル: 「国土交通省 Project PLATEAU 3D都市モデル（2025年大阪・関西万博）」を加工して使用
