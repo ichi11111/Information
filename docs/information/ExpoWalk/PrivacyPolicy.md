@@ -14,7 +14,6 @@ ExpoWalk（以下「本アプリ」）は、利用者の個人情報を一切収
 
 本ポリシーに変更がある場合は、本ページで告知します。
 
-お問い合わせ: https://github.com/ichi11111/Information/issues
 
 ## English
 
@@ -26,10 +25,3 @@ ExpoWalk ("the App") does not collect any personal information.
 - Controller input is used only for locomotion in the moment and is never recorded.
 
 Any changes to this policy will be announced on this page.
-
-Contact: https://github.com/ichi11111/Information/issues
-
----
-
-会場3Dモデル: 「国土交通省 Project PLATEAU 3D都市モデル（2025年大阪・関西万博）」を加工して使用
-Venue 3D model: Adapted from "MLIT Project PLATEAU 3D City Model (Expo 2025 Osaka, Kansai, Japan)"
